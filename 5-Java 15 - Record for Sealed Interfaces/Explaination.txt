@@ -1,0 +1,3 @@
+As records are final by default and can extend interfaces. 
+
+We can define sealed interfaces and let record implement them for better code management.

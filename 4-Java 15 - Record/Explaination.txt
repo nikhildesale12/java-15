@@ -1,0 +1,15 @@
+Java 14 introduces a new class type record as preview feature to facilitate creation of immutable data objects. 
+
+Java 15 enhances record type further. It is still a preview feature.
+
+-Record object have implicit constructor with all the parameters as field variables.
+
+-Record object have implicit field getter methods for each field variables.
+
+-Record object have implicit field setter methods for each field variables.
+
+-Record object have implicit sensible implementation of hashCode(), equals() and toString() methods.
+
+-With Java 15, native methods cannot be declared in records.
+
+-With Java 15, implicit fields of record are not final and modification using reflection will throw IllegalAccessException.

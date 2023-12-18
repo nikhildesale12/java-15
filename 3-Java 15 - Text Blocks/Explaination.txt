@@ -1,0 +1,5 @@
+Java 13 introduces text blocks to handle multiline strings like JSON/XML/HTML etc as is a preview feature. 
+
+With Java 14, we've second preview of Text Blocks.
+
+Now Text Block is no more a preview feature and is a part of standard offering.
